@@ -5,6 +5,6 @@ st.set_page_config(
     page_icon="!!!"
 )
 
-st.title("Welcome to Streamlit")
+st.title("Welcome to Smart Price Analytics Suite for properties of Gurgaon, India")
 
 st.sidebar.success("Select a demo above")
